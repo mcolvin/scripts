@@ -5,6 +5,8 @@
 #  THE SCRIPT BELOW GENERATES THE REFERENCE POPUALTION AND SAMPLES
 #  THE POPULATION DESCRIBED IN BOX 5.2 IN AGE AND GROWTH OF FISHES
 #  MICHAEL.COLVIN@MSSTATE.EDU TO REPORT ERRORS OR QUESTIONS 
+#  OR FORK THE REPO AND MAKE A PULL REQUEST
+#  https://github.com/mcolvin/scripts/tree/master/agf-chp5
 #
 #######################################################################
 
